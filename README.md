@@ -1,5 +1,5 @@
 # Aprende Java con Ejercicios
-<img src=".\Media\java.jpg" width="1600"></img>
+![](./Media/java.jpg)
 ### [Sentencia condicional (if y switch)](./Sentencia%20condicional)
 ### Bucles
 ### Números aleatorios
