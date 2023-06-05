@@ -1,7 +1,7 @@
 /*
 
  */
-package ejemplo_04;
+package ejemplo_05;
 
 import java.util.Scanner;
 
@@ -16,8 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         Scanner tec = new Scanner(System.in);
-        System.out.println("prueba");
-        System.out.println("pruebados");
+        System.out.println("prueba05");
     }
 
 }
